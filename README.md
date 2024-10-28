@@ -1,3 +1,7 @@
+---
+license: cc-by-sa-4.0
+---
+
 # UNER_Slovak-SNK
 
 The UNER dataset for the Slovak National Corpus (SNK), originally released with UNER v1. UNER_Slovak-SNK is part of [Universal NER](https://www.universalner.org/) and is based on the [UD_Slovak-SNK](https://github.com/UniversalDependencies/UD_Slovak-SNK) dataset.
@@ -5,6 +9,7 @@ The UNER dataset for the Slovak National Corpus (SNK), originally released with 
 The canonical reference commit to the Universal Dependencies dataset is [`4d13f4810ebba49ed41430c3e43adf5a50087f6f`](https://github.com/UniversalDependencies/UD_Slovak-SNK/tree/4d13f4810ebba49ed41430c3e43adf5a50087f6f)
 
 If you use this dataset, please cite the corresponding [paper](https://aclanthology.org/2024.naacl-long.243/):
+
 ```
 @inproceedings{
   mayhew2024universal,
